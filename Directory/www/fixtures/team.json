@@ -1,0 +1,45 @@
+[
+  {
+    "model": "www.person",
+  "pk":1,
+  "fields": {
+    "name": "Jason Nthala",
+    "title": "General Manager",
+    "email": "jnthala@za.co.za",
+    "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIXQExjqekMzKwd7846mtfrrst3bnax59TJr1z_gV-Big2ErlkzM7FKirovw"
+  }
+},
+
+  {
+  "model": "www.person",
+  "pk":2,
+  "fields": {
+    "name": "John Woo",
+    "title": "Operations Manager",
+    "email": "jwoo@za.co.za",
+    "image": "https://cdn0.iconfinder.com/data/icons/avatars-6/500/Avatar_boy_man_people_account_client_male_person_user_work_sport_beard_team_glasses-512.png"
+  }
+},
+
+  {
+  "model": "www.person",
+  "pk":3,
+  "fields": {
+    "name": "Jessic Simason",
+    "title": "Public Relations Officer",
+    "email": "jsimason@za.co.za",
+    "image": "http://icons.iconarchive.com/icons/iloveicons.ru/browser-girl/256/browser-girl-firefox-icon.png"
+  }
+},
+
+  {
+  "model": "www.person",
+  "pk":3,
+  "fields": {
+    "name": "Karen Van Wyk",
+    "title": "Legal Officer",
+    "email": "kvanwyk@za.co.za",
+    "image": "http://icons.iconarchive.com/icons/iloveicons.ru/browser-girl/256/browser-girl-chrome-icon.png"
+  }
+}  
+]
